@@ -8,6 +8,7 @@ https://docs.conda.io/en/latest/miniconda.html
 =======================================================================
 # All commands conda
 https://docs.conda.io/projects/conda/en/stable/commands/index.html
+https://repo.anaconda.com/miniconda/
 =======================================================================
 # check version of conda
 conda --version
