@@ -1,0 +1,33 @@
+# install conda on linux
+
+https://docs.conda.io/en/latest/miniconda.html
+
+> wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+> bash Miniconda3-latest-Linux-x86_64.sh
+--------------------------
+# check version of conda
+conda --version
+
+# update conda
+conda update conda
+
+# create enviroment with any version python 
+conda create -n myenv python=3.9
+
+# active enviroment
+conda activate myenv
+
+# deactivate enviroment
+conda deactivate
+
+# way_01: install packeage
+conda install numpy
+
+# way_02: install packeage
+pip install requests
+
+# show all enviroment 
+conda env list
+
+# delete enviroment
+conda env remove -n myenv
