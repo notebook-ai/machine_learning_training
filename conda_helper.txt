@@ -31,3 +31,13 @@ conda env list
 
 # delete enviroment
 conda env remove -n myenv
+
+
+# run jupyter notebook into conda
+> jupyter notebook
+
+# in the linux, when you want deactivate base run terminal
+> conda config --set auto_activate_base false
+
+# in the linux, when you want activate base run terminal
+> conda config --set auto_activate_base true
