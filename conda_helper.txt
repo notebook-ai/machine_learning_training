@@ -4,7 +4,11 @@ https://docs.conda.io/en/latest/miniconda.html
 
 > wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 > bash Miniconda3-latest-Linux-x86_64.sh
---------------------------
+
+=======================================================================
+# All commands conda
+https://docs.conda.io/projects/conda/en/stable/commands/index.html
+=======================================================================
 # check version of conda
 conda --version
 
