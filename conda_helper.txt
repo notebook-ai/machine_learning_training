@@ -25,6 +25,9 @@ conda activate myenv
 # deactivate enviroment
 conda deactivate
 
+# listing enviroments
+conda info --envs
+
 # way_01: install packeage
 conda install numpy
 
