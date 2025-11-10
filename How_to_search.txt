@@ -1,0 +1,27 @@
+How to search?
+
+1. Basics 
+ > theory of subject: 
+    1: Basics of python, Libraries
+    2: Using the documentation of each syntax ( like matplotlib, plotly, ..)
+    3: understanding the whole code
+    4: understanding the differences
+    5: don't igone anything
+    *. you see code aboput your problem, search into google, Read any documnet aboout that, learn theory of code , then you can understantd code
+
+2. Coding 
+    2.1: code with description at first   
+    2.2: after a while, you can analuses codes withoput description
+    2.3: use in you IDE and change everything and observe
+    
+3. Example
+    Example are the most powerful teaches for you
+    for each, at leat 10 example should read.
+    Example are everywhere such as github, kaggle and ...
+
+4. Blogs 
+    Really interesting to know other people experiences.
+    deep in programming such as medium , kaggle and ...
+
+5. AI Tools 
+    chatgpt or other tools
