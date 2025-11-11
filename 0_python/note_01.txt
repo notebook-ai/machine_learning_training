@@ -1,0 +1,7 @@
+History of python:
+------------------
+Creator: Guido van Rossum
+First Released: 1991
+Purpose: Easy-toread, multi-task
+
+
