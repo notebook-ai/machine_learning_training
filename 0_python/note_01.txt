@@ -47,5 +47,6 @@ flexibility
 community and support ( like pypi)
 IDEs
 support for Big data and Artificial intelligence
+OOP ( Object-Oriented Programming )
 
 
