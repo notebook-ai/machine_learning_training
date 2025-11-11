@@ -1,0 +1,15 @@
+Python library:
+
+Library:
+1. Numy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Plotly
+6. SKLearn
+7. ...
+
+
+Pre_trained library:
+1. some "EDA" libraries ( Auto Analysis)
+2. some "ML" libraries (auto model, fine tune and ...)
