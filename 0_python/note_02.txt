@@ -1,0 +1,21 @@
+CPU, GPU, and TPU are three different types of processors, each optimized for specific kinds of computing tasks:
+
+CPU (Central Processing Unit) – Central Processor
+1. Primary Role: Executes general-purpose instructions and manages overall system operations.
+2. Features: Fewer cores (typically 4 to 32), but each core is powerful and highly versatile with complex logic.
+3. Best For: Sequential tasks like running operating systems, everyday applications, and general programming.
+4. Advantage: Highly flexible — can handle any type of task, but slower for parallel computations.
+
+
+GPU (Graphics Processing Unit) – Graphics Processor
+1. Primary Role: Originally designed for rendering graphics and images.
+2. Features: Hundreds to thousands of smaller, efficient cores that can perform many operations simultaneously (massive parallelism).
+3. Best For: Parallel computations such as machine learning, scientific simulations, 3D rendering, and gaming.
+4. Advantage: Extremely fast at processing large volumes of data in parallel — now the backbone of most machine learning systems.
+
+TPU (Tensor Processing Unit) – Tensor Processor
+1. Designed by: Google.
+2. Primary Role: Specifically built to accelerate tensor operations used in deep neural networks.
+3. Features: Custom hardware optimized for matrix multiplications and other core operations in deep learning models (especially using TensorFlow).
+4. Best For: Training and inference of deep learning models — commonly used in Google’s cloud infrastructure.
+5. Advantage: Superior speed and energy efficiency compared to GPUs for deep learning tasks, but less flexible for general computing.
