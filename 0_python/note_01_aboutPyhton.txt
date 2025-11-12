@@ -1,0 +1,27 @@
+History of python:
+------------------
+Creator: Guido van Rossum
+First Released: 1991
+Purpose: Easy-toread, multi-task
+
+
+Why Python:
+------------------
+Easy to learn and use
+strong community and ecosystem
+productivity and speed
+Widely used (Multiplatform: web, mobile, game, AI, ...)
+
+
+Features of Python:
+---------------------------
+Simple and readable syntax
+extensive standard library
+dynamic typing
+flexibility
+community and support ( like pypi)
+IDEs
+support for Big data and Artificial intelligence
+OOP ( Object-Oriented Programming )
+
+
