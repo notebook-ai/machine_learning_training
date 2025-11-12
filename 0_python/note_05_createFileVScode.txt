@@ -1,0 +1,4 @@
+*. if you want to create any file into VScode, type this code ionto the terminal
+
+> type nul >> one.py
+> type nul >> two.ipynb
