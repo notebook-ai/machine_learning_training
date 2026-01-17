@@ -1,0 +1,12 @@
+data analiys
+visualization
+
+در زمانی که بخواهیم پلات های خودمان در در قالب فایل داشبود به دیگران ارائه دهیم
+بصورت صفحه وب
+
+
+plotly
+www.plotly.com
+
+library dash
+
